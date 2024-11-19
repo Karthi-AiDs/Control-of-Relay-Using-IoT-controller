@@ -39,9 +39,18 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 
 ## PROGRAM:
 
+![Screenshot (28)](https://github.com/user-attachments/assets/6df005c2-bf36-4c67-b2ae-0874129d4335)
+
+
 ## CIRCUIT DIAGRAM:
 
+![Screenshot (16)](https://github.com/user-attachments/assets/b8bc2eee-a473-474d-a43c-5df4185864d9)
+
+
 ## OUTPUT:
+
+![Screenshot (26)](https://github.com/user-attachments/assets/51d1fcaa-6206-4630-a067-5fea57802553)
+
 
 ## RESULT:
 
